@@ -1,0 +1,48 @@
+.chart-container {
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.doughnut-chart-container {
+    height: 200px;
+    width: 100%;
+    float: left;
+    padding-top: 0;
+    
+}
+
+.line-chart-container {
+    height: 545px;
+    width: 100%;
+    float: left;
+    padding-top: 0;
+    
+}
+
+.bar-chart-maincontainer {
+    width: 100%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.bar-chart-container {
+    height: 400px;
+    width: 100%;
+    padding-top: 0;
+    
+}
+
+.vertical-line {
+    border-right: 1px solid #D8D8D8;
+}
+
+.oval-icon {
+    transform: translateX(-100%);
+}
+
